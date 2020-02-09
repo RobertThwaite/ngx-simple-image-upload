@@ -70,11 +70,6 @@ Add Module to your inputs:
   bootstrap: [AppComponent],
 ```
 
-Until Fixed and properly compiled add
-
-`../node_modules/ngx-simple-image-upload/index.ts`
-
-To tsconfig.json
 
 Then use the componente as follow:
 

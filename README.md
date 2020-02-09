@@ -1,4 +1,4 @@
-# ngx-simple-image-upload
+# ngx-simple-image-upload (Working with latest angular)
 
 An Angular Component for upload images and read them inline.
 
